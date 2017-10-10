@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather Alert</string>
+    <string name="pressure">Pressure:\u0020</string>
+    <string name="temp">Temp:\u0020</string>
+    <string name="humidity">Humidity:\u0020</string>
+    <string name="cloud">Cloud:\u0020</string>
+    <string name="wind">Wind speed:\u0020</string>
+    <string name="temp_unit"> °C</string>
+    <string name="pressure_unit">\u0020 hPa</string>
+    <string name="humidity_unit">\u0020%</string>
+    <string name="wind_unit"> \u0020 m/s</string>
+</resources>
